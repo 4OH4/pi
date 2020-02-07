@@ -1,5 +1,5 @@
 # pi
-Python estimate of pi using random sampling - long-running process for benchmarking
+Python estimate of pi using random sampling - long-running process for benchmarking. This was used to compare compute performance in and out of Docker containers, in this article: [Faster Python in Docker](https://medium.com/better-programming/faster-python-in-docker-d1a71a9b9917?source=friends_link&sk=30e81adca9d5104d67fa162eb7aeeb55).
 
 To run the benchmark (vectorised and non-vectorised code):
 
